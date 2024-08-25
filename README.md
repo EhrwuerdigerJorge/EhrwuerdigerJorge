@@ -2,7 +2,7 @@
 - 👀 I’m interested in IoT, school
 - 🌱 I’m currently learning c++
 - 📫 How to reach me most certainly An der Schleuse
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: loving  (real) turtles
 
 <!---
